@@ -10,13 +10,11 @@
 
 ## Myself
 
-- 🔭 Working as a Backend developer in Codingmart
+- 🔭 Working as a Full stack developer at Klenty
 
-- 🌱 Studied in St. Joseph's college of Engineering, chennai
+- 🌱 Studied at St. Joseph's college of Engineering, chennai
 
-- 👯 Nodejs as my primary techstack with 
-
--     Currently,doing projects in blockchain technology
+- 👯 MERN stack with AI is my current working signature.
  
 
 - 💬 Ask me about anything [here](https://github.com/Magesh16/Magi/issues)
